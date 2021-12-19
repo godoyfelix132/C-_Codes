@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iconos/iluminati.png</file>
+    </qresource>
+    <qresource prefix="/textos"/>
+</RCC>

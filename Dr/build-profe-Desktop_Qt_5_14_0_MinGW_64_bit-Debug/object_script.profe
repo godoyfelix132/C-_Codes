@@ -1,0 +1,10 @@
+datopersona.o
+main.o
+mainwindow.o
+persona.o
+principal.o
+widget.o
+moc_datopersona.o
+moc_mainwindow.o
+moc_principal.o
+moc_widget.o
